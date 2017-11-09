@@ -19,6 +19,10 @@ h1 {
   list-style-type: none;
 }
 
+.headnav {
+  color: white;
+}
+
 .process {
   font-size: 32px;
   font-weight: bold;
@@ -44,4 +48,8 @@ footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+}
+
+.footnav {
+  color: white;
 }
