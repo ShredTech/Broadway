@@ -18,3 +18,8 @@ h1 {
   color: white;
   list-style-type: none;
 }
+
+.process {
+  font-size: 32px;
+  font-weight: bold;
+}
